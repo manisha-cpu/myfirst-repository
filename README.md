@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Manihsa
 ## My first website
-### Theme slecetion
+### Theme slecetion 1
 
 - Bulleted
 - List
